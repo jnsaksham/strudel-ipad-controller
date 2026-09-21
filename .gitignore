@@ -1,0 +1,7 @@
+*
+!.gitignore
+!ipad.js
+!ipad-control/
+!ipad-control/**
+ipad-control/node_modules/
+.DS_Store

@@ -1,0 +1,9 @@
+{
+  "name": "Strudel Control",
+  "short_name": "Strudel",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#0b0d10",
+  "theme_color": "#0b0d10",
+  "start_url": "."
+}
